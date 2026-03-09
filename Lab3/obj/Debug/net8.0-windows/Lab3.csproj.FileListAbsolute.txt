@@ -1,0 +1,16 @@
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\bin\Debug\net8.0-windows\Lab3.exe
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\bin\Debug\net8.0-windows\Lab3.deps.json
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\bin\Debug\net8.0-windows\Lab3.runtimeconfig.json
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\bin\Debug\net8.0-windows\Lab3.dll
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\bin\Debug\net8.0-windows\Lab3.pdb
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\obj\Debug\net8.0-windows\Lab3.Lab3A.resources
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\obj\Debug\net8.0-windows\Lab3.csproj.GenerateResource.cache
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\obj\Debug\net8.0-windows\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\obj\Debug\net8.0-windows\Lab3.AssemblyInfoInputs.cache
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\obj\Debug\net8.0-windows\Lab3.AssemblyInfo.cs
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\obj\Debug\net8.0-windows\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\obj\Debug\net8.0-windows\Lab3.dll
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\obj\Debug\net8.0-windows\refint\Lab3.dll
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\obj\Debug\net8.0-windows\Lab3.pdb
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\obj\Debug\net8.0-windows\Lab3.genruntimeconfig.cache
+C:\Users\stcp\source\repos\SDP_Labs_2026\Lab3\obj\Debug\net8.0-windows\ref\Lab3.dll
